@@ -1,4 +1,4 @@
 @echo off
                   
-set PTOOLSPATH="%~dp0\"
+set PTOOLSPATH=C:phalcon-tools
 php %PTOOLSPATH%phalcon.php %*
